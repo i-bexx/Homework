@@ -10,7 +10,7 @@ Bu uygulama, /var/log/syslog dosyasını okuyarak log kayıtlarını bir bağlı
 
 Kod Yapısı
 
-
+-----------------------------------
 LogNode: Bağlı liste düğümünü temsil eder. Her düğüm bir log kaydı içerir.
 createNode: Yeni bir log düğümü oluşturur.
 addLog: Logları bağlı listeye ekler.
